@@ -9,7 +9,7 @@ public class MenuPrincipal {
         Scanner in = new Scanner(System.in);
         do{
             System.out.println("\nPARCIAL I DE PROGRAMACION II\n");
-            System.out.println("\nCALCULADORA\n");
+            System.out.println("\n*****BIENVENID@ A LA CALCULADORA VIRTUAL*****\n");
             System.out.println("OPERACIONES BASICAS CON DOS DATOS: \n" +
                     " 1.Sumar\n" +
                     " 2.Restar\n" +
