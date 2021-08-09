@@ -13,7 +13,7 @@ public class VolverMenu {
         if (option== 1) {
             return true;
         } else {
-            System.out.println(" SALIR DEL POGRAMA...");
+            System.out.println(" SALIR DEL PROGRAMA...");
             return false;
         }
     }
